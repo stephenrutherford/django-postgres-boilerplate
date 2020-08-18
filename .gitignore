@@ -3,7 +3,6 @@ secrets.json
 *.log
 
 # VS Code Workspace
-vs_workspace.code-worksapce
+*.code-workspace
 
-# Test
-/frontend
+# React
