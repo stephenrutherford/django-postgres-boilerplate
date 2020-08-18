@@ -1,10 +1,16 @@
 # Django - React JS boilerplate with PostgreSQL
 A boilerplate Django template for React JS with a PostgreSQL database.
 
+
+## Prerequisites
+
+* node.js installed
+* postgreSQL server and table already created
+
 ## Backend
 
 * clone repo
-* start your virtual environement
+* start your virtual environment
 * `pip install -r requirements.txt`
 * open secret.json and replace placeholder strings with the correct information
 
@@ -22,4 +28,6 @@ The Django settings.py file will already have redirects to React JS build/static
 * `npm install -g create-react-app`
 * `create-react-app frontend`
 
-test
+## Wrap-up
+
+* `python manage.py runserver` to confirm everything works
