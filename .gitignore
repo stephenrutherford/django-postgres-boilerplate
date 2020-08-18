@@ -1,0 +1,9 @@
+# Django
+secrets.json
+*.log
+
+# VS Code Workspace
+vs_workspace.code-worksapce
+
+# Test
+/frontend
