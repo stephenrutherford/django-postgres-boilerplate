@@ -13,10 +13,13 @@ https://djecrety.ir/
 
 The Django settings.py file will already have redirects to React JS build/static assuming the app is called "frontend". You can rename this if needed. 
 
-
+![](https://github.com/stephenrutherford/django-postgres-boilerplate/blob/master/github/readme_template.PNG)
+![](https://github.com/stephenrutherford/django-postgres-boilerplate/blob/master/github/readme_static.PNG)
 
 ## Frontend
 
 * CD to Django base directory
 * `npm install -g create-react-app`
-* create-react-app frontend
+* `create-react-app frontend`
+
+test
